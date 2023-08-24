@@ -3,7 +3,10 @@
 <p align="center"><img src="header.gif" alt="Header-GIF" width="100%"/></a></p>
 <h1 align="center">Assignnment for Taiyo</h1>
 <h3 align="center">implementing contact managment ,covid cases charts and data view and map</h3>
- ## 🖥 Directory Structure 
+
+
+ ## 🖥 TechStack
+ 
 <table align="center">
  <tr align="center">
       <td>Javascript</td>
@@ -28,11 +31,7 @@
  </tr>
 </table>
 
-
-## 🖥 TechStack
  
-
- ## 🖥 TechStack 
 
 #Directory Structure 
 ```bash
