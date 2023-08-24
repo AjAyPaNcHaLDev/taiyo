@@ -2,6 +2,7 @@ import { Navbar } from 'flowbite-react';
 import { Link } from "react-router-dom";
 import { Dropdown } from 'flowbite-react';
 export default function DefaultNavbar() {
+  window.document.title="Taiyo.AI Assignment - Front End Engineer";
   return (
     <Navbar
       fluid
@@ -23,6 +24,7 @@ export default function DefaultNavbar() {
       <Navbar.Toggle />
       <Navbar.Collapse>
       <Link className={classOf.link} to={'/'}>Dashboard</Link>
+      <Link className={classOf.link}   target='_black' to="https://github.com/AjAyPaNcHaLDev/taiyo">Documentation</Link>
       <div className={classOf.link} >
       <Dropdown
           inline

@@ -1,5 +1,6 @@
 import { Sidebar } from 'flowbite-react';
-import { HiHome, HiChartPie, HiUser,HiUserAdd ,HiUsers , HiPresentationChartLine ,HiMap} from 'react-icons/hi';
+import { HiHome,  HiUser,HiUserAdd ,HiUsers , HiPresentationChartLine ,HiMap} from 'react-icons/hi';
+import { AiFillGithub} from 'react-icons/ai';
 import { Link } from 'react-router-dom';
 export default function MultiLevelDropdown(props:any) {
   return (
@@ -16,6 +17,18 @@ export default function MultiLevelDropdown(props:any) {
               Dashboard
               </p>
             </Sidebar.Item> 
+
+            </Link>
+            <Link  target='_black' to="https://github.com/AjAyPaNcHaLDev/taiyo">
+            <Sidebar.Item 
+              icon={AiFillGithub}
+            
+            >
+              <p>
+              Documentation
+              </p>
+            </Sidebar.Item> 
+            
             </Link>
             <Sidebar.Collapse
               icon={HiUser}

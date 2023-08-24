@@ -9,8 +9,7 @@ import Map from './pages/Map.tsx';
 
 import {
   QueryClient,
-  QueryClientProvider,
-  useQuery,
+  QueryClientProvider, 
 } from '@tanstack/react-query'
 
 const queryClient = new QueryClient()

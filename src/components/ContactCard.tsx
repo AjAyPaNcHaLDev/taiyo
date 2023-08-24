@@ -1,5 +1,5 @@
-import React ,{useState}from 'react'; 
-import { Card ,Button, Modal} from 'flowbite-react';
+import React from 'react'; 
+import { Card } from 'flowbite-react';
 
 import {  useAppDispatch } from "../store/hooks";
 import { deleteContact } from '../store/features/contacts/contactsSlice';
