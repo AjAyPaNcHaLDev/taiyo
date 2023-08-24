@@ -9,15 +9,15 @@
  
 <table align="center">
  <tr align="center">
-      <td>Javascript</td>
-      <td>TypeScript</td>
-      <td>React Js</td>
-      <td>Redux toolkit</td>
-      <td>Vite</td>
+      <td>javascript</td>
+      <td>typeScript</td>
+      <td>react Js</td>
+      <td>redux toolkit</td>
+      <td>vite</td>
  </tr>
  <tr align="center">
-      <td>React-query</td>
-      <td>React-router-dom-v6</td>
+      <td>react-query</td>
+      <td>react-router-dom-v6</td>
       <td>flowbite-react</td>
       <td>react-chartjs-2</td>
       <td>Json</td>
@@ -33,7 +33,7 @@
 
  
 
-#Directory Structure 
+## 🖥 Directory Structure 
 ```bash
 
 #|-- .eslintrc.cjs
