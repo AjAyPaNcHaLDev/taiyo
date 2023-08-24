@@ -1,22 +1,22 @@
 <p align="center"><a href="https://github.com/ajaypanchaldev/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <p align="center"><img src="header.gif" alt="Header-GIF" width="100%"/></a></p>
-<h1 align="center">Assignnment for Taiyo</h1> 
+<h1 align="center">Assignnment for Taiyo</h1>
 
- ## 🖥 Pages
+## 🖥 Pages
 
  <table align="center">
   <tr align="center">
-   <td><a href="https://taiyo-ten.vercel.app/">Dashboard</a></td>    
+   <td><a href="https://taiyo-one.vercel.app/">Dashboard</a></td>    
    <td><a href="https://github.com/AjAyPaNcHaLDev/taiyo">Documentation or Readme.md</a></td>
   </tr>
   <tr align="center">
-   <td><a href="https://taiyo-ten.vercel.app/contacts">Contacts</a></td>    
-   <td><a href="https://taiyo-ten.vercel.app/add-contact">Add Contact</a></td>  
+   <td><a href="https://taiyo-one.vercel.app/contacts">Contacts</a></td>    
+   <td><a href="https://taiyo-one.vercel.app/add-contact">Add Contact</a></td>  
    </tr> 
   <tr align="center">
-   <td><a href="https://taiyo-ten.vercel.app/chart">Chart</a></td>
-   <td><a href="https://taiyo-ten.vercel.app/map">Map</a></td>
+   <td><a href="https://taiyo-one.vercel.app/chart">Chart</a></td>
+   <td><a href="https://taiyo-one.vercel.app/map">Map</a></td>
   </tr>
  </table>
   
@@ -47,9 +47,8 @@
  </tr>
 </table>
 
- 
+## 🖥 Directory Structure
 
-## 🖥 Directory Structure 
 ```bash
 
 #|-- .eslintrc.cjs
@@ -98,11 +97,4 @@
 
 ```
 
-
-
-
-
-
-
 <p align="center"><a href="https://github.com/jenishdesai/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
-
